@@ -28,7 +28,7 @@ Voici ce que j'obtiens au final:
 
 #Scapy nous permet aussi d'utiliser différentes fonction comme des pings pour communiquer avec les PC.
 
-
+![ping](https://cloud.githubusercontent.com/assets/15108010/12550299/2587b58a-c363-11e5-8307-dca3a0a1b526.png)
 
 
 
