@@ -44,7 +44,7 @@ Scapy nous permet aussi d'utiliser différentes fonction comme des pings pour co
  Voici un exemple de manipulation avec scapy pour envoyer un ping est voir la réponse que nous obtenons, cette exemple à etait réaliser avec ma livebox.
 
 
-
+![ping](https://cloud.githubusercontent.com/assets/15108010/12550382/a8f760c8-c363-11e5-8f4e-861faa704997.png)
 
 La fonction srp nous permet, le de deux objets : le premier contient les paquets émis et leurs réponses associées, l'autre contient les paquets sans réponse.
 Il existe plusieurs autres fonctions d'envoi comme le srp1 qui comme avec le srp s'occupe tout seul de l'entete pour l'envoi.
@@ -71,7 +71,7 @@ Voici le code que j'ai pu executer.
 
 
 
-
+![trace_route](https://cloud.githubusercontent.com/assets/15108010/12550432/003e3366-c364-11e5-9f4f-06b03f43663d.png)
 
 
 
@@ -80,7 +80,7 @@ Je me suis permis de reprendre la manipulation précédent pour voir par ou mon 
 
 
 
-
+![traceroute_tele](https://cloud.githubusercontent.com/assets/15108010/12550218/89b6ca4c-c362-11e5-9bc0-1395f4b613de.png)
 
 
 Une représentation  schématisé.
