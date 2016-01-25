@@ -1,15 +1,14 @@
 # Scapy
 
-# Qu'est ce que SCAPY ?
+Qu'est ce que SCAPY ?
 
 
-# Exite t'il d'autre sniffeur de réseau ?
+Exite t'il d'autre sniffeur de réseau ?
 
 
-#- Netcat est un petit outil qui permet d'envoyer des données a travers un réseau aussi bien en UDP qu'en TCP.
+- Netcat est un petit outil qui permet d'envoyer des données a travers un réseau aussi bien en UDP qu'en TCP.
 
-#- Nessus est non seulement un outil de scan de ports.
-
+- Nessus est non seulement un outil de scan de ports.
 
 
 #Premier manipulation inspection entre mon PC et mon réseau avec ma livebox.
@@ -18,9 +17,7 @@ La fonction Sniff():
 
 
 
-# Les Pings.
-
-Scapy nous permet aussi d'utiliser différentes fonction comme des pings pour communiquer avec les PC.
+ Les Pings.
 
 
 ![ping](https://cloud.githubusercontent.com/assets/15108010/12550382/a8f760c8-c363-11e5-8f4e-861faa704997.png)
@@ -31,6 +28,8 @@ Scapy nous permet aussi d'utiliser différentes fonction comme des pings pour co
 
 
 #  Essai avec un site de téléchargement :
+
+
 
 
 #Autre possibilité que propose Scapy est le tracage de route. 
