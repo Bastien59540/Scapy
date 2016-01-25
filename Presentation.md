@@ -48,7 +48,7 @@ Pour réaliser le tracage de route je me suis permis de faire une petite recherc
 # Troisiéme Manipulation : Mon Pc est un site de téléchargement.
 Je me suis permis de reprendre la manipulation précédent pour voir par ou mon pc passer pour communiquer avec ce site voila le resultat obtenu :
 
-
+![traceroute_tele](https://cloud.githubusercontent.com/assets/15108010/12550218/89b6ca4c-c362-11e5-9bc0-1395f4b613de.png)
 
 
 #Une représentation  schématisé.
