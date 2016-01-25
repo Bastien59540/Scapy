@@ -49,10 +49,4 @@ La fonction Sniff():
 
 ![traceroute_tele](https://cloud.githubusercontent.com/assets/15108010/12550218/89b6ca4c-c362-11e5-9bc0-1395f4b613de.png)
 
-
-#Une représentation  schématisé.
-
-
-Nous obtenons ce type de représentation auquel nous pouvons voir, le chemin que prenne les données.
-
 #Conclusion:
