@@ -28,12 +28,12 @@ Voici ce que j'obtiens au final:
 
 #Scapy nous permet aussi d'utiliser différentes fonction comme des pings pour communiquer avec les PC.
 
-![ping](https://cloud.githubusercontent.com/assets/15108010/12550299/2587b58a-c363-11e5-8307-dca3a0a1b526.png)
 
-
+![ping](https://cloud.githubusercontent.com/assets/15108010/12550382/a8f760c8-c363-11e5-8f4e-861faa704997.png)
 
 
 # Que se passe t'il en cas que le PC n'existe pas ?
+
 
 #  Essai avec un ssite de téléchargement :
 
