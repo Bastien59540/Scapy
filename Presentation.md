@@ -26,6 +26,9 @@ La fonction Sniff():
 # Que se passe t'il en cas que le PC n'existe pas ?
 
 
+# Surveiller un hote dans son réseau :
+
+
 
 #  Essai avec un site de téléchargement :
 
