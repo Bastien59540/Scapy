@@ -43,7 +43,7 @@ Pour réaliser le tracage de route je me suis permis de faire une petite recherc
 '209.85.143.100'. Grace àa cela nous allons envoyer une trame à ce data center et voir par ou passe c'est information.
 
 
-
+![trace_route](https://cloud.githubusercontent.com/assets/15108010/12550432/003e3366-c364-11e5-9f4f-06b03f43663d.png)
 
 # Troisiéme Manipulation : Mon Pc est un site de téléchargement.
 Je me suis permis de reprendre la manipulation précédent pour voir par ou mon pc passer pour communiquer avec ce site voila le resultat obtenu :
