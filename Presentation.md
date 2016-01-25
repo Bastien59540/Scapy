@@ -25,6 +25,7 @@ La fonction Sniff():
 
 # Que se passe t'il en cas que le PC n'existe pas ?
 
+![hotnnexist](https://cloud.githubusercontent.com/assets/15108010/12559737/19c1e9f8-c397-11e5-8fad-9b68ff0dd008.png)
 
 # Surveiller un hote dans son réseau :
 
