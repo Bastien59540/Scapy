@@ -74,6 +74,7 @@ Voici le code que j'ai pu executer.
 ![trace_route](https://cloud.githubusercontent.com/assets/15108010/12550432/003e3366-c364-11e5-9f4f-06b03f43663d.png)
 
 
+Dans cette situation, j'ai remarquer aprés plusieurs essais que je perdais ma trame a l'IP 81.253.184.178. Mais en faisant des recherches de mon coté par rapport à cette adresse, je n'ai trouvé aucun élément y correspondant.
 
 # Troisiéme Manipulation : Mon Pc est un site de téléchargement.
 Je me suis permis de reprendre la manipulation précédent pour voir par ou mon pc passer pour communiquer avec ce site voila le resultat obtenu :
@@ -82,6 +83,7 @@ Je me suis permis de reprendre la manipulation précédent pour voir par ou mon 
 
 ![traceroute_tele](https://cloud.githubusercontent.com/assets/15108010/12550218/89b6ca4c-c362-11e5-9bc0-1395f4b613de.png)
 
+ON peut voir que j'ai pu aboutir à l'adresse IP du site en 6 saut d'adresse.
 
 Une représentation  schématisé.
 
