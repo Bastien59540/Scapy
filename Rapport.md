@@ -11,7 +11,7 @@ Dans les sniffeurs réseau nous pouvons trouver:
 utilisable facilement par d'autres programmes ou des scripts shells.
 C'est également un outil de debug d'application réseau puisqu'il peut créer toute connexion UDP ou TCP.
 
--Nessus est non seulement un outil de scan de ports, mais également un outil de détection de faille de sécurité.
+- Nessus est non seulement un outil de scan de ports, mais également un outil de détection de faille de sécurité.
 Il peut opérer sur plusieurs machines à la fois, et fournit un rapport une fois le scan effectué.
 De nombreux paramètres agissants sur les scans, sur les tests de sécurité sont ajustables par l'utilisateur.
 
