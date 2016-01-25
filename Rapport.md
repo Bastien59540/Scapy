@@ -30,14 +30,15 @@ Au travers de cette présentation vous découvrirez comment inspecter votre rés
 
 La fonction Sniff():
 
+![sniff](https://cloud.githubusercontent.com/assets/15108010/12559758/3b849a72-c397-11e5-84ce-940b676f62e6.png)
+
 La fonction sniff nous permet de voir les différentes informations qui circule sur le réseau. Grâce à cette manipulation nous pouvons les trames UDP et TCP.
 Arrivant sur le pc portable, en utilisant la fonction SNiff j'ai pu remarquer,les différentes tramesarrivant sur mon pc.
 IL est tout a fait possible de lire en boucle sur ce qui circule dans mon reseau ethernet. POur quitter l'exexcution du sniff il suffit de faire un CTRL+C.
 
-Voici ce que j'obtiens au final:
+La fonction sniff peut également servir de filtre tout en possédant l'adresse IP de l'hote a surveiller.
 
-
-
+![sniffhote](https://cloud.githubusercontent.com/assets/15108010/12559767/4b7335f6-c397-11e5-9f9c-6405d9b120ea.png)
 
 
 Scapy nous permet aussi d'utiliser différentes fonction comme des pings pour communiquer avec les PC.
@@ -75,6 +76,10 @@ Voici le code que j'ai pu executer.
 
 
 Dans cette situation, j'ai remarquer aprés plusieurs essais que je perdais ma trame a l'IP 81.253.184.178. Mais en faisant des recherches de mon coté par rapport à cette adresse, je n'ai trouvé aucun élément y correspondant.
+
+Nous pouvons même utiliser la fonction trace route rapide.
+
+![trace_route_rap](https://cloud.githubusercontent.com/assets/15108010/12559795/5a3250b8-c397-11e5-939c-3a7564a83155.png)
 
 # Troisiéme Manipulation : Mon Pc est un site de téléchargement.
 Je me suis permis de reprendre la manipulation précédent pour voir par ou mon pc passer pour communiquer avec ce site voila le resultat obtenu :
