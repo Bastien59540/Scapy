@@ -25,6 +25,16 @@ Mais nous avons plutot preferer de prendre le sniffeur Scapy, pour plus de facil
 
 Au travers de cette présentation vous découvrirez comment inspecter votre réseau personnelle, pouvoir faire vos propres représentation graphique grace à des manipulation.
 
+# Les premieres idées : 
+
+- La premiére idée que j'ai pu élaborer fut la création d'une interface, avec différents actions afin de tester le réseau. Une idée que j'ai rapidement abandonner par manque de temps. Et trop complexe à réaliser. 
+
+- Autre idée que j'ai pu avoir était de créer des scripts Python afin de tester mon réseau. Mais aprés plusieurs essais aucun de mes scripts n'ont fonctionnés. Afin d'éviter de rester bloqué, j'ai utiliser le terminal de LINUX dans le but de pouvoir inspecter mon réseau personnel.
+
+# Matériel à ma disposition : 
+Ma Livebox 
+Mon Ordinateur Portable avec le systéme exploitation Linux
+Et un cable Ethernet relié entre mon poste et la livebox.
 
 #Premier manipulation inspection entre mon PC et mon réseau avec ma livebox.
 
