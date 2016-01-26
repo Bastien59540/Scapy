@@ -34,9 +34,6 @@ La fonction Sniff():
 
 
 
-#  Essai avec un site de téléchargement :
-
-
 
 
 #Autre possibilité que propose Scapy est le tracage de route. 
